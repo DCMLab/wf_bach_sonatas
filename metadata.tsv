@@ -1,4 +1,4 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	musescore	composed_start	composed_end	annotator
-./Bach_WF_F01_Sonata_C-Dur.mscx	Bach_WF_F01_Sonata_C-Dur	.mscx	334fa3220c0a413de79fab9222025ecb	627		4/4, 4/4, 3/4, 3/4, 3/8, 3/4, 3/4, 3/8, 3/8, 3/4, 3/4, 3/8, 3/8	2.3.2	1745	1760	Christos Giannopoulos
-./Bach_WF_F02_Sonate_C-Dur.mscx	Bach_WF_F02_Sonate_C-Dur	.mscx	fb004490f087951ebabe5105b9de46be	516		4/4, 3/4, 3/4, 3/4, 3/4, 3/4	2.3.2	1745	1760	Christos Giannopoulos
-./Bach_WF_F03_Sonate_D-Dur.mscx	Bach_WF_F03_Sonate_D-Dur	.mscx	6df11cbe56b1c5b5d96a06bb3bc35f58	1065	2	2/4, 3/4, 3/4, 2/2, 2/2	2.3.2	1745	1760	Christos Giannopoulos
+path	filename	extension	md5	label_count	KeySig	TimeSig	musescore
+MS3/Bach_WF_F01_Sonata_C-Dur.mscx	Bach_WF_F01_Sonata_C-Dur	.mscx	afdabc01bb5e13a95be5a76e363d51dd	627		4/4, 4/4, 3/4, 3/4, 3/8, 3/4, 3/4, 3/8, 3/8, 3/4, 3/4, 3/8, 3/8	3.4.2
+MS3/Bach_WF_F02_Sonate_C-Dur.mscx	Bach_WF_F02_Sonate_C-Dur	.mscx	178c4c68467ec0cb429e099e415843f5	516		4/4, 3/4, 3/4, 3/4, 3/4, 3/4	3.4.2
+MS3/Bach_WF_F03_Sonate_D-Dur.mscx	Bach_WF_F03_Sonate_D-Dur	.mscx	4c486f4e68ad334b53860c8773246b9c	1065	2	2/4, 3/4, 3/4, 2/2, 2/2	3.4.2
