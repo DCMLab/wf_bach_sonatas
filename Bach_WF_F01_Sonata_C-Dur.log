@@ -1,0 +1,11 @@
+Attempting to parse Bach_WF_F01_Sonata_C-Dur.mscx
+MC 68 contains an empty <Harmony> tag. It is stored as 'empty_harmony'.
+Doublings: mc  onset
+68  3/8      empty_harmony
+    3/8                 V2
+Name: chords, dtype: object
+MC 81 in volta [81] has not been excluded from barcount.
+Done parsing Bach_WF_F01_Sonata_C-Dur.mscx
+
+Failed to expand labels due to syntactic errors:
+No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames.

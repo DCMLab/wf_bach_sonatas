@@ -1,0 +1,12 @@
+Attempting to parse Bach_WF_F02_Sonate_C-Dur.mscx
+Doublings: mc  onset
+99  1/2      iio/iv
+    1/2           v
+Name: chords, dtype: object
+MC 21 in volta [21] has not been excluded from barcount.
+MC 133 in volta [133] has not been excluded from barcount.
+MC 176 in volta [176] has not been excluded from barcount.
+Done parsing Bach_WF_F02_Sonate_C-Dur.mscx
+
+Failed to expand labels due to syntactic errors:
+Several global keys not accepted at the moment.
