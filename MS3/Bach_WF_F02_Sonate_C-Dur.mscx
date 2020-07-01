@@ -4720,8 +4720,7 @@ Falck 2</text>
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
-            <name>er6\\</name>
+            <name>.Ger6\\</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4769,8 +4768,7 @@ Falck 2</text>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
-            <root>15</root>
-            <name>er6</name>
+            <name>.Ger6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4973,8 +4971,7 @@ Falck 2</text>
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
-            <name>er6</name>
+            <name>.Ger6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -5413,8 +5410,7 @@ Falck 2</text>
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
-            <name>er6</name>
+            <name>.Ger6</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -11784,7 +11780,6 @@ Falck 2</text>
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <root>14</root>
             <name>.I</name>
             <offset x="-1.56623" y="-2.57831"/>
             </Harmony>
