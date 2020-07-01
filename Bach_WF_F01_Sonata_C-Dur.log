@@ -1,11 +1,42 @@
 Attempting to parse Bach_WF_F01_Sonata_C-Dur.mscx
-MC 68 contains an empty <Harmony> tag. It is stored as 'empty_harmony'.
-Doublings: mc  onset
-68  3/8      empty_harmony
-    3/8                 V2
-Name: chords, dtype: object
 MC 81 in volta [81] has not been excluded from barcount.
 Done parsing Bach_WF_F01_Sonata_C-Dur.mscx
 
+The following chords could not be parsed:
+      mc   mn onset     label
+0      1    1     0    .C.I"I
+3      2    2   5/8        I"
+10     4    4     0    I(94)"
+14     5    5   5/8        I"
+63    14   14   1/2   vi(4)vi
+122   27   27     0    V97/ii
+125   28   28     0      ♭VII
+126   28   28   1/4      ♭VII
+128   29   29     0       V97
+137   31   31   1/8       V97
+139   31   31   5/8       V97
+141   32   32     0     i\\"i
+143   33   33   5/8        i"
+144   34   34     0       V97
+150   35   35   1/8        "i
+153   36   36   5/8        i"
+208   50   50     0    I\\I"I
+211   51   51   5/8        I"
+218   53   53   1/8        "I
+228   56   56     0      I\\I
+230   56   56   1/2        V9
+382  111  111   1/4       I"I
+417  125  125  3/16       V97
+421  127  127  3/16       V97
+424  129  129     0       V"V
+430  131  131     0        V"
+491  155  155   1/4   ii6(7#)
+518  166  166  5/16   .bII/vi
+537  172  172     0    IV(9#)
+550  175  175     0  viio(9#)
+587  189  189  3/16       V97
+591  191  191  3/16       V97
+594  193  193     0       V"V
+601  195  195  1/16        V"
 Failed to expand labels due to syntactic errors:
-No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames.
+repl_spec() missing 1 required positional argument: 'special'

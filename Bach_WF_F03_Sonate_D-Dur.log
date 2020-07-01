@@ -11,5 +11,20 @@ MC 192 (3/4) and MC 193 (3/8) don't add up to 1.
 MC 259 (3/4) and MC 193 (3/8) don't add up to 1.
 Done parsing Bach_WF_F03_Sonate_D-Dur.mscx
 
+The following chords could not be parsed:
+       mc   mn onset     label
+19      6    6  7/16    V(64)V
+27      9    9     0        I"
+33     10   10     0     I''\\
+48     14   14     0    IV(9#)
+54     15   15     0        V"
+...   ...  ...   ...       ...
+1050  257  257  7/12  V65#(4#)
+1051  257  257   2/3    V6(4#)
+1052  257  257   3/4    V6(4#)
+1058  259  259     0     I(4)"
+1064  259  259   1/2      I"\\
+
+[81 rows x 4 columns]
 Failed to expand labels due to syntactic errors:
-Several global keys not accepted at the moment.
+repl_spec() missing 1 required positional argument: 'special'

@@ -8,5 +8,29 @@ MC 133 in volta [133] has not been excluded from barcount.
 MC 176 in volta [176] has not been excluded from barcount.
 Done parsing Bach_WF_F02_Sonate_C-Dur.mscx
 
+The following chords could not be parsed:
+      mc   mn onset    label
+91    33   33     0      V97
+93    33   33   1/2    V97/V
+114   41   41   3/4  .Ger6\\
+115   42   42   1/4    .Ger6
+120   43   43   3/4    .Ger6
+133   47   47     0       V"
+136   47   47   3/4       I"
+138   48   48   1/4    .Ger6
+210   75   75   1/4    V(4)V
+217   78   78   1/8      V97
+269   95   95   3/8      V97
+297  104  104   1/8      V97
+304  106  106     0  iv6(7#)
+313  109  109     0       .I
+367  127  127   1/4      V97
+416  143  143   1/2      V97
+456  153  153   1/2   V97/IV
+458  154  154     0   IV(4b)
+463  155  155     0   IV(4b)
+482  161  161     0  .bII/vi
+493  167  167   5/8      V92
+501  170  170   1/4      V97
 Failed to expand labels due to syntactic errors:
-Several global keys not accepted at the moment.
+repl_spec() missing 1 required positional argument: 'special'
