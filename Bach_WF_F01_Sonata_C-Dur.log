@@ -1,8 +1,24 @@
-Attempting to parse Bach_WF_F01_Sonata_C-Dur.mscx
-MC 81 in volta [81] has not been excluded from barcount.
-Done parsing Bach_WF_F01_Sonata_C-Dur.mscx
+INFO     Bach_WF_F01_Sonata_C-Dur.ms3 -- Attempting to parse Bach_WF_F01_Sonata_C-Dur.mscx
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 1 has 2 TimeSig-nodes. Used first (4/4), ignored ['4/4'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 122 has 2 TimeSig-nodes. Used first (3/4), ignored ['3/4'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 123 has 2 TimeSig-nodes. Used first (3/8), ignored ['3/8'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 186 has 2 TimeSig-nodes. Used first (3/4), ignored ['3/4'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 187 has 2 TimeSig-nodes. Used first (3/8), ignored ['3/8'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 106 has 2 TimeSig-nodes. Used first (3/8), ignored ['3/8'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 122 has 2 TimeSig-nodes. Used first (3/4), ignored ['3/4'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 123 has 2 TimeSig-nodes. Used first (3/8), ignored ['3/8'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 186 has 2 TimeSig-nodes. Used first (3/4), ignored ['3/4'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 187 has 2 TimeSig-nodes. Used first (3/8), ignored ['3/8'].
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- Voltas overlap in MC [72]
+ERROR    Bach_WF_F01_Sonata_C-Dur.ms3 -- Volta with range [72, 73] contains startRepeat!
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- Voltas overlap in MC [81]
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- Voltas with measure COUNTS [[71], [72, 73]] have different lengths.
+    Check measure NUMBERS with authoritative score. To silence the warning, either make all voltas
+    the same length or exclude all measures in voltas > 1 from the bar count.
+WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- MC 81 in volta [81] has not been excluded from barcount.
+INFO     Bach_WF_F01_Sonata_C-Dur.ms3 -- Done parsing Bach_WF_F01_Sonata_C-Dur.mscx
 
-The following chords could not be parsed:
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- The following chords could not be parsed:
       mc   mn onset     label
 0      1    1     0    .C.I"I
 3      2    2   5/8        I"
@@ -31,12 +47,19 @@ The following chords could not be parsed:
 424  129  129     0       V"V
 430  131  131     0        V"
 491  155  155   1/4   ii6(7#)
-518  166  166  5/16   .bII/vi
 537  172  172     0    IV(9#)
 550  175  175     0  viio(9#)
 587  189  189  3/16       V97
 591  191  191  3/16       V97
 594  193  193     0       V"V
 601  195  195  1/16        V"
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+ERROR    Bach_WF_F01_Sonata_C-Dur.expand_labels -- Are you expanding labels of several pieces in the same DataFrame? In that case, define 'groupby()' parameters.
+ERROR    Bach_WF_F01_Sonata_C-Dur -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "parallel_parse.py", line 79, in parse
+    expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 447, in __init__
+    df = self.propagate_keys(df, add_bool=True, **key_cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 709, in propagate_keys
+    assert nunique > 0, "No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames."
+AssertionError: No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames.

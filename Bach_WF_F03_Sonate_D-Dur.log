@@ -1,17 +1,21 @@
-Attempting to parse Bach_WF_F03_Sonate_D-Dur.mscx
-MC 1 seems to be a pickup measure but has not been excluded from bar count!
-MC 1 is completing MC 29 but has not been excluded from bar count!
-MC 30 is completing MC 29 but has not been excluded from bar count!
-MC 85 (3/8) and MC 86 (3/4) don't add up to 1/2.
-The endRepeat in MC 103 (3/4) is not adapted to the irregular measure length in MC 30 (1/8)
-The endRepeat in MC 149 (3/4) is not adapted to the irregular measure length in MC 150 (1/4)
-MC 150 (1/4) and MC 151 (1) don't add up to 1.
-MC 192 (3/4) and MC 104 (3/4) don't add up to 1.
-MC 192 (3/4) and MC 193 (3/8) don't add up to 1.
-MC 259 (3/4) and MC 193 (3/8) don't add up to 1.
-Done parsing Bach_WF_F03_Sonate_D-Dur.mscx
+INFO     Bach_WF_F03_Sonate_D-Dur.ms3 -- Attempting to parse Bach_WF_F03_Sonate_D-Dur.mscx
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 86 has 2 TimeSig-nodes. Used first (3/4), ignored ['3/4'].
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 150 has 2 TimeSig-nodes. Used first (2/2), ignored ['2/2'].
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 has 2 TimeSig-nodes. Used first (2/4), ignored ['2/4'].
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 150 has 2 TimeSig-nodes. Used first (2/2), ignored ['2/2'].
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 seems to be a pickup measure but has not been excluded from bar count!
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 is completing MC 29 but has not been excluded from bar count!
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 30 is completing MC 29 but has not been excluded from bar count!
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 85 (3/8) and MC 86 (3/4) don't add up to 1/2.
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- The endRepeat in MC 103 (3/4) is not adapted to the irregular measure length in MC 30 (1/8)
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- The endRepeat in MC 149 (3/4) is not adapted to the irregular measure length in MC 150 (1/4)
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 150 (1/4) and MC 151 (1) don't add up to 1.
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 192 (3/4) and MC 104 (3/4) don't add up to 1.
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 192 (3/4) and MC 193 (3/8) don't add up to 1.
+WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 259 (3/4) and MC 193 (3/8) don't add up to 1.
+INFO     Bach_WF_F03_Sonate_D-Dur.ms3 -- Done parsing Bach_WF_F03_Sonate_D-Dur.mscx
 
-The following chords could not be parsed:
+WARNING  Bach_WF_F03_Sonate_D-Dur.expand_labels -- The following chords could not be parsed:
        mc   mn onset     label
 19      6    6  7/16    V(64)V
 27      9    9     0        I"
@@ -25,6 +29,15 @@ The following chords could not be parsed:
 1058  259  259     0     I(4)"
 1064  259  259   1/2      I"\\
 
-[81 rows x 4 columns]
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+[76 rows x 4 columns]
+ERROR    Bach_WF_F03_Sonate_D-Dur.expand_labels -- % is a seventh chord and cannot have figbass ''
+ERROR    Bach_WF_F03_Sonate_D-Dur.expand_labels -- Are you expanding labels of several pieces in the same DataFrame? In that case, define 'groupby()' parameters.
+ERROR    Bach_WF_F03_Sonate_D-Dur -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "parallel_parse.py", line 79, in parse
+    expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 447, in __init__
+    df = self.propagate_keys(df, add_bool=True, **key_cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 711, in propagate_keys
+    raise NotImplementedError("Several global keys not accepted at the moment.")
+NotImplementedError: Several global keys not accepted at the moment.
