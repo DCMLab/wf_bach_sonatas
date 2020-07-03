@@ -1,7 +1,4 @@
 INFO     Bach_WF_F02_Sonate_C-Dur.ms3 -- Attempting to parse Bach_WF_F02_Sonate_C-Dur.mscx
-WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- MC 65 has 3 TimeSig-nodes. Used first (3/4), ignored ['3/4', '3/4'].
-WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- MC 109 has 2 TimeSig-nodes. Used first (3/4), ignored ['3/4'].
-WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- MC 1 has 2 TimeSig-nodes. Used first (4/4), ignored ['4/4'].
 WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Voltas overlap in MC [64]
 WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Voltas overlap in MC [133]
 WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Doublings: mc  onset

@@ -1,8 +1,4 @@
 INFO     Bach_WF_F03_Sonate_D-Dur.ms3 -- Attempting to parse Bach_WF_F03_Sonate_D-Dur.mscx
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 86 has 2 TimeSig-nodes. Used first (3/4), ignored ['3/4'].
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 150 has 2 TimeSig-nodes. Used first (2/2), ignored ['2/2'].
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 has 2 TimeSig-nodes. Used first (2/4), ignored ['2/4'].
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 150 has 2 TimeSig-nodes. Used first (2/2), ignored ['2/2'].
 WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 seems to be a pickup measure but has not been excluded from bar count!
 WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 is completing MC 29 but has not been excluded from bar count!
 WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 30 is completing MC 29 but has not been excluded from bar count!
