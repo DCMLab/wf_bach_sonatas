@@ -1,7 +1,4 @@
 INFO     Bach_WF_F03_Sonate_D-Dur.ms3 -- Attempting to parse Bach_WF_F03_Sonate_D-Dur.mscx
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 seems to be a pickup measure but has not been excluded from bar count!
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 1 is completing MC 29 but has not been excluded from bar count!
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 30 is completing MC 29 but has not been excluded from bar count!
 WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 85 (3/8) and MC 86 (3/4) don't add up to 1/2.
 WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- The endRepeat in MC 103 (3/4) is not adapted to the irregular measure length in MC 30 (1/8)
 WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- The endRepeat in MC 149 (3/4) is not adapted to the irregular measure length in MC 150 (1/4)
@@ -13,17 +10,7 @@ INFO     Bach_WF_F03_Sonate_D-Dur.ms3 -- Done parsing Bach_WF_F03_Sonate_D-Dur.m
 
 WARNING  Bach_WF_F03_Sonate_D-Dur.expand_labels -- The following chords could not be parsed:
        mc   mn onset     label
-19      6    6  7/16    V(64)V
-27      9    9     0        I"
-33     10   10     0     I''\\
-48     14   14     0    IV(9#)
-54     15   15     0        V"
 ...   ...  ...   ...       ...
-1050  257  257  7/12  V65#(4#)
-1051  257  257   2/3    V6(4#)
-1052  257  257   3/4    V6(4#)
-1058  259  259     0     I(4)"
-1064  259  259   1/2      I"\\
 
 [76 rows x 4 columns]
 ERROR    Bach_WF_F03_Sonate_D-Dur.expand_labels -- % is a seventh chord and cannot have figbass ''

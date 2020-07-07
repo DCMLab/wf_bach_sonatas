@@ -134,7 +134,7 @@
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>.C.I&quot;I</name>
+            <name>.C.I</name>
             <offset x="0.0783114" y="-5.08428"/>
             </Harmony>
           <Rest>
@@ -302,10 +302,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I(64)</name>
-            <offset x="-0.0783114" y="-5.63246"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -325,7 +321,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I&quot;</name>
+            <name>I</name>
             <offset x="0.347863" y="-5.66068"/>
             </Harmony>
           <Chord>
@@ -531,7 +527,7 @@ Falck 1</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>I(94)&quot;</name>
+            <name>I(94)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -614,9 +610,6 @@ Falck 1</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -636,7 +629,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>I&quot;</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1707,7 +1700,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>vi(4)vi</name>
+            <name>vi(4)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -1739,6 +1732,9 @@ Falck 1</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>vi</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -1885,6 +1881,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1925,6 +1922,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1989,6 +1987,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2028,6 +2027,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2323,6 +2323,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2356,6 +2357,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3110,13 +3112,13 @@ Falck 1</text>
       <Measure>
         <startRepeat/>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            </BarLine>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -3149,6 +3151,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3182,6 +3185,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3246,6 +3250,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3279,6 +3284,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3319,6 +3325,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3352,6 +3359,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3385,6 +3393,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3418,6 +3427,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3650,7 +3660,7 @@ Falck 1</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V97/ii</name>
+            <name>V7(9)/ii</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3718,7 +3728,7 @@ Falck 1</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>♭VII</name>
+            <name>.bVII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3744,7 +3754,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>♭VII</name>
+            <name>.bVII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3872,7 +3882,7 @@ Falck 1</text>
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V97</name>
+            <name>V7(b9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3967,9 +3977,6 @@ Falck 1</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>V2/III</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -3995,9 +4002,6 @@ Falck 1</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>#viio2</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -4085,7 +4089,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V97</name>
+            <name>V7(9)</name>
             <offset x="0" y="-3.56544"/>
             </Harmony>
           <Chord>
@@ -4117,7 +4121,7 @@ Falck 1</text>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>V97</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4210,7 +4214,7 @@ Falck 1</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\&quot;i</name>
+            <name>i\\</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -4397,7 +4401,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>i&quot;</name>
+            <name>i</name>
             <offset x="-0.106544" y="-3.67198"/>
             </Harmony>
           <Chord>
@@ -4459,7 +4463,7 @@ Falck 1</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V97</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4607,7 +4611,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>&quot;i</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4675,9 +4679,6 @@ Falck 1</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>i(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -4694,7 +4695,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>i&quot;</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6232,7 +6233,7 @@ Falck 1</text>
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>I\\I&quot;I</name>
+            <name>I\\</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6394,10 +6395,6 @@ Falck 1</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I(64)</name>
-            <offset x="0" y="-4.63087"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -6417,7 +6414,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>I&quot;</name>
+            <name>I</name>
             <offset x="0.532718" y="-4.63087"/>
             </Harmony>
           <Chord>
@@ -6622,7 +6619,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>&quot;I</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6691,9 +6688,6 @@ Falck 1</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -6899,7 +6893,7 @@ Falck 1</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>I\\I</name>
+            <name>I\\</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6930,7 +6924,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>viio7</name>
+            <name>vii%7</name>
             <offset x="0.852349" y="-4.31124"/>
             </Harmony>
           <Chord>
@@ -6962,7 +6956,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9</name>
+            <name>V(9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7130,6 +7124,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7160,6 +7155,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8305,6 +8301,11 @@ Falck 1</text>
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="-20.9802" y="0"/>
+                </Segment>
               <endings>1</endings>
               </Volta>
             <next>
@@ -8330,7 +8331,6 @@ Falck 1</text>
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <voice>
           <Harmony>
             <name>I\\</name>
@@ -8797,6 +8797,11 @@ Falck 1</text>
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="-10.4901" y="0"/>
+                </Segment>
               <endings>1</endings>
               </Volta>
             <next>
@@ -8816,6 +8821,7 @@ Falck 1</text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -9208,13 +9214,13 @@ Falck 1</text>
       <Measure>
         <startRepeat/>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            </BarLine>
           <Harmony>
             <name>#viio7/iv</name>
             </Harmony>
@@ -10103,6 +10109,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10250,6 +10257,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10298,7 +10306,7 @@ Falck 1</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>I&quot;I</name>
+            <name>I</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -10352,6 +10360,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10392,6 +10401,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10421,9 +10431,6 @@ Falck 1</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>IV</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10448,6 +10455,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10480,14 +10488,12 @@ Falck 1</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10544,6 +10550,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10576,14 +10583,12 @@ Falck 1</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <name>V6</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10717,6 +10722,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10757,6 +10763,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10810,6 +10817,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10854,6 +10862,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10913,6 +10922,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10950,6 +10960,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10994,6 +11005,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11400,7 +11412,7 @@ Falck 1</text>
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>V97</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -11548,7 +11560,7 @@ Falck 1</text>
             <durationType>16th</durationType>
             </Rest>
           <Harmony>
-            <name>V97</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -11686,7 +11698,7 @@ Falck 1</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V&quot;V</name>
+            <name>V[V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -11847,7 +11859,7 @@ Falck 1</text>
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V&quot;</name>
+            <name>V]</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12875,6 +12887,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13019,6 +13032,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13252,6 +13266,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13418,6 +13433,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13462,6 +13478,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13537,7 +13554,7 @@ Falck 1</text>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
-            <name>ii6(7#)</name>
+            <name>ii6(#7)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -13574,6 +13591,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13611,6 +13629,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13664,6 +13683,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13708,6 +13728,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13741,6 +13762,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13771,6 +13793,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13818,6 +13841,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13857,6 +13881,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13887,6 +13912,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14723,7 +14749,7 @@ Falck 1</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>IV(9#)</name>
+            <name>IV(#2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15024,7 +15050,7 @@ Falck 1</text>
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>viio(9#)</name>
+            <name>viio(#2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15564,6 +15590,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15720,6 +15747,7 @@ Falck 1</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16137,7 +16165,7 @@ Falck 1</text>
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>V97</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16281,7 +16309,7 @@ Falck 1</text>
             <durationType>16th</durationType>
             </Rest>
           <Harmony>
-            <name>V97</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16423,7 +16451,7 @@ Falck 1</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V&quot;V</name>
+            <name>V[V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16577,7 +16605,7 @@ Falck 1</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V</name>
+            <name>V]</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16590,9 +16618,6 @@ Falck 1</text>
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
-          <Harmony>
-            <name>V&quot;</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -19193,13 +19218,13 @@ Falck 1</text>
         </Measure>
       <Measure>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            </BarLine>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -23142,13 +23167,13 @@ Falck 1</text>
         </Measure>
       <Measure>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            </BarLine>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
