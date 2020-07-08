@@ -6,19 +6,19 @@ WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- Voltas with measure COUNTS [[71], [72, 
     the same length or exclude all measures in voltas > 1 from the bar count.
 INFO     Bach_WF_F01_Sonata_C-Dur.ms3 -- Done parsing Bach_WF_F01_Sonata_C-Dur.mscx
 
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 162: #viio in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 47: #viio7 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 187: #vii%7 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 46: #viio7 in major context is most probably an annotation error.
 WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 197: #viio43 in major context is most probably an annotation error.
 WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 162: #viio43 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 38: #vii%7 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 38: #viio in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 123: #vii%7 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 46: #viio7 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 45: #viio7 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 163: #vii6 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 28: #viio2 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 135: #viio43 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 187: #vii%7 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 47: #viio7 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 133: #viio43 in major context is most probably an annotation error.
-WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 9: #viio6 in major context is most probably an annotation error.
 WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 199: #viio43 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 163: #vii6 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 123: #vii%7 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 38: #viio in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 45: #viio7 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 133: #viio43 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 38: #vii%7 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 9: #viio6 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 135: #viio43 in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 162: #viio in major context is most probably an annotation error.
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- MC 28: #viio2 in major context is most probably an annotation error.
