@@ -1,6 +1,4 @@
 INFO     Bach_WF_F02_Sonate_C-Dur.ms3 -- Attempting to parse Bach_WF_F02_Sonate_C-Dur.mscx
-WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Voltas overlap in MC [64]
-WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Voltas overlap in MC [133]
 WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Doublings: mc  onset
 99  1/2      iio/iv
     1/2           v
