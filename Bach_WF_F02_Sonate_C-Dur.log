@@ -8,7 +8,7 @@ INFO     Bach_WF_F02_Sonate_C-Dur.ms3 -- Done parsing Bach_WF_F02_Sonate_C-Dur.m
 ERROR    Bach_WF_F02_Sonate_C-Dur.expand_labels -- Are you expanding labels of several pieces in the same DataFrame? In that case, define 'groupby()' parameters.
 ERROR    Bach_WF_F02_Sonate_C-Dur -- Could not expand labels due to errors:
 Traceback (most recent call last):
-  File "scripts/parallel_parse.py", line 80, in parse
+  File "parallel_parse.py", line 80, in parse
     expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
   File "/home/hentsche/corpora/scripts/expand_labels.py", line 416, in __init__
     df = self.propagate_keys(df, add_bool=True, **key_cols)
