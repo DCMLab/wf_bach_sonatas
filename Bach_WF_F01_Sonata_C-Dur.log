@@ -4,3 +4,7 @@ WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- Voltas with measure COUNTS [[71], [72, 
     the same length or exclude all measures in voltas > 1 from the bar count.
 INFO     Bach_WF_F01_Sonata_C-Dur.ms3 -- Done parsing Bach_WF_F01_Sonata_C-Dur.mscx
 
+WARNING  Bach_WF_F01_Sonata_C-Dur.expand_labels -- The following chords could not be parsed:
+      mc   mn onset    label
+124   28   28     0    .bVII
+508  166  165  5/16  .bII/vi
