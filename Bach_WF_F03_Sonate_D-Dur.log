@@ -1,18 +1,1 @@
 INFO     Bach_WF_F03_Sonate_D-Dur.ms3 -- Attempting to parse Bach_WF_F03_Sonate_D-Dur.mscx
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 85 (3/8) and MC 86 (3/4) don't add up to 1/2.
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- The endRepeat in MC 103 (3/4) is not adapted to the irregular measure length in MC 30 (1/8)
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- The endRepeat in MC 149 (3/4) is not adapted to the irregular measure length in MC 150 (1/4)
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 150 (1/4) and MC 151 (1) don't add up to 1.
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 192 (3/4) and MC 104 (3/4) don't add up to 1.
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 192 (3/4) and MC 193 (3/8) don't add up to 1.
-WARNING  Bach_WF_F03_Sonate_D-Dur.ms3 -- MC 259 (3/4) and MC 193 (3/8) don't add up to 1.
-INFO     Bach_WF_F03_Sonate_D-Dur.ms3 -- Done parsing Bach_WF_F03_Sonate_D-Dur.mscx
-
-WARNING  Bach_WF_F03_Sonate_D-Dur.expand_labels -- The following chords could not be parsed:
-      mc   mn onset  label
-346   86   84   3/8  .vi.i
-500  125  123   1/2  .bII6
-WARNING  Bach_WF_F03_Sonate_D-Dur.expand_labels -- MC 95: #viio43 in major context is most probably an annotation error.
-WARNING  Bach_WF_F03_Sonate_D-Dur.expand_labels -- MC 256: #vii in major context is most probably an annotation error.
-WARNING  Bach_WF_F03_Sonate_D-Dur.expand_labels -- MC 120: #viio43 in major context is most probably an annotation error.
-WARNING  Bach_WF_F03_Sonate_D-Dur.expand_labels -- MC 249: #vii%43 in major context is most probably an annotation error.

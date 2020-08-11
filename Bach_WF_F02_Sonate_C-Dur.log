@@ -5,11 +5,3 @@ WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Doublings: mc  onset
 Name: chords, dtype: object
 INFO     Bach_WF_F02_Sonate_C-Dur.ms3 -- Done parsing Bach_WF_F02_Sonate_C-Dur.mscx
 
-WARNING  Bach_WF_F02_Sonate_C-Dur.expand_labels -- The following chords could not be parsed:
-      mc   mn onset    label
-95    41   40   3/4  .Ger6\\
-96    42   41   1/4    .Ger6
-101   43   42   3/4    .Ger6
-117   48   47     0     .bVI
-118   48   47   1/4    .Ger6
-442  161  159     0  .bII/vi

@@ -1,0 +1,17 @@
+INFO     Bach_WF_F03_Sonate_D-Dur_03.ms3 -- Attempting to parse Bach_WF_F03_Sonate_D-Dur_03.mscx
+WARNING  Bach_WF_F03_Sonate_D-Dur_03.ms3 -- MC 1 seems to be a pickup measure but has not been excluded from bar count!
+WARNING  Bach_WF_F03_Sonate_D-Dur_03.ms3 -- MC 1 is completing MC 43 but has not been excluded from bar count!
+WARNING  Bach_WF_F03_Sonate_D-Dur_03.ms3 -- MC 43 (3/4) and MC 44 (3/8) don't add up to 1.
+WARNING  Bach_WF_F03_Sonate_D-Dur_03.ms3 -- MC 110 (3/4) and MC 44 (3/8) don't add up to 1.
+INFO     Bach_WF_F03_Sonate_D-Dur_03.ms3 -- Done parsing Bach_WF_F03_Sonate_D-Dur_03.mscx
+
+ERROR    Bach_WF_F03_Sonate_D-Dur_03.expand_labels -- Are you expanding labels of several pieces in the same DataFrame? In that case, define 'groupby()' parameters.
+ERROR    Bach_WF_F03_Sonate_D-Dur_03 -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "scripts/parallel_parse.py", line 93, in parse
+    expanded = expand_labels(chord_list, column='label', regex=regex, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 416, in __init__
+    df = self.propagate_keys(df, add_bool=True, **key_cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 678, in propagate_keys
+    assert nunique > 0, "No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames."
+AssertionError: No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames.
