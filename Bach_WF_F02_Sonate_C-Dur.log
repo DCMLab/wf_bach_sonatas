@@ -1,7 +1,0 @@
-INFO     Bach_WF_F02_Sonate_C-Dur.ms3 -- Attempting to parse Bach_WF_F02_Sonate_C-Dur.mscx
-WARNING  Bach_WF_F02_Sonate_C-Dur.ms3 -- Doublings: mc  onset
-99  1/2      iio/iv
-    1/2           v
-Name: chords, dtype: object
-INFO     Bach_WF_F02_Sonate_C-Dur.ms3 -- Done parsing Bach_WF_F02_Sonate_C-Dur.mscx
-

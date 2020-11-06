@@ -1,6 +1,0 @@
-INFO     Bach_WF_F01_Sonata_C-Dur.ms3 -- Attempting to parse Bach_WF_F01_Sonata_C-Dur.mscx
-WARNING  Bach_WF_F01_Sonata_C-Dur.ms3 -- Voltas with measure COUNTS [[71], [72, 73]] have different lengths.
-    Check measure NUMBERS with authoritative score. To silence the warning, either make all voltas
-    the same length or exclude all measures in voltas > 1 from the bar count.
-INFO     Bach_WF_F01_Sonata_C-Dur.ms3 -- Done parsing Bach_WF_F01_Sonata_C-Dur.mscx
-
