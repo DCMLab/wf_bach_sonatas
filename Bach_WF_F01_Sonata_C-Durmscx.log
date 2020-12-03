@@ -1,4 +1,0 @@
-2020-11-06 16:12:48 WARNING  Bach_WF_F01_Sonata_C-Dur:MeasureList -- bs4_measures.py (line 731) treat_group():
-	Volta group of MC 71 contains voltas with different lengths: [1, 2] Check for correct computation of MNs.
-2020-11-06 16:12:48 WARNING  Bach_WF_F01_Sonata_C-Dur:MeasureList -- bs4_measures.py (line 186) check_measure_numbers():
-	MC 72, the 1st measure of a 2nd volta, should have MN 71, not MN 72.
