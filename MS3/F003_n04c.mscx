@@ -147,7 +147,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.6</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
@@ -198,6 +198,7 @@
       </Part>
     <Staff id="1">
       <Measure len="1/4">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>2</accidental>
@@ -5385,8 +5386,9 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/8">
+      <Measure len="1/4">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Clef>
             <concertClefType>G</concertClefType>
@@ -5395,6 +5397,15 @@
           <BarLine>
             <subtype>start-repeat</subtype>
             </BarLine>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5416,6 +5427,7 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           </voice>
         <voice>
           <Dynamic>
@@ -18024,7 +18036,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/8">
+      <Measure len="1/4">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -18039,10 +18051,6 @@
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
-            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
