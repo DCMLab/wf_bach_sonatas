@@ -570,6 +570,7 @@
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -586,7 +587,7 @@
               </Volta>
             <next>
               <location>
-                <measures>2</measures>
+                <measures>1</measures>
                 </location>
               </next>
             </Spanner>
@@ -605,6 +606,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -654,13 +662,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
