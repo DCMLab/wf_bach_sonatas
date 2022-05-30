@@ -2683,6 +2683,7 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <voice>
           <Clef>
             <concertClefType>G</concertClefType>

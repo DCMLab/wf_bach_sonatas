@@ -36,7 +36,7 @@ mc	mn	keysig	timesig	act_dur	mc_offset	numbering_offset	dont_count	barline	break
 35	35	0	3/8	3/8	0						36
 36	36	0	3/8	3/8	0						37
 37	37	0	3/8	3/8	0				line	end	1, 38
-38	38	0	3/8	3/8	0						39
+38	38	0	3/8	3/8	0					start	39
 39	39	0	3/8	3/8	0						40
 40	40	0	3/8	3/8	0						41
 41	41	0	3/8	3/8	0						42
