@@ -6766,7 +6766,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>C.I</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
