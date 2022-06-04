@@ -8260,7 +8260,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8271,16 +8271,11 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>viio43/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio43/V</name>
-            <offset x="-2.66259" y="-10.801"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
