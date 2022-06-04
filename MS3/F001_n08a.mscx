@@ -9981,7 +9981,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(64)</name>
+            <name>iv64</name>
             <offset x="0" y="-3.56544"/>
             </Harmony>
           <Rest>
@@ -10008,6 +10008,10 @@ Falck 1</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(64)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -10069,10 +10073,6 @@ Falck 1</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10249,7 +10249,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(64)</name>
+            <name>iv64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10279,6 +10279,10 @@ Falck 1</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(64)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -10334,10 +10338,6 @@ Falck 1</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
