@@ -9365,7 +9365,7 @@ Falck 1</text>
             </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
+            <name>I.V7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9381,10 +9381,6 @@ Falck 1</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -9396,19 +9392,9 @@ Falck 1</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/IV</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>I64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9477,7 +9463,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9502,7 +9488,7 @@ Falck 1</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/IV</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9514,7 +9500,7 @@ Falck 1</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/IV\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9565,7 +9551,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9575,10 +9561,6 @@ Falck 1</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -9596,7 +9578,7 @@ Falck 1</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/ii</name>
+            <name>iio64/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9630,7 +9612,7 @@ Falck 1</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/ii</name>
+            <name>V7(9)/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9665,7 +9647,7 @@ Falck 1</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii\\</name>
+            <name>i/ii\\</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9721,7 +9703,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVII</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9747,7 +9729,7 @@ Falck 1</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>iio64/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9787,7 +9769,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)</name>
+            <name>V7(b9)/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9811,14 +9793,14 @@ Falck 1</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9828,10 +9810,6 @@ Falck 1</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -9867,7 +9845,7 @@ Falck 1</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V2/III</name>
+            <name>vi.V2/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
