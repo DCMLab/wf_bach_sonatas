@@ -10971,7 +10971,9 @@ Falck 1</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii64</name>
+            <name>i64/iii</name>
+            <minDistance>0.39965</minDistance>
+            <offset x="-0.10035" y="5.19479"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -10992,10 +10994,6 @@ Falck 1</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii64</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -11083,7 +11081,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/vii</name>
+            <name>viio7/V/iii</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -11128,7 +11126,7 @@ Falck 1</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/vii</name>
+            <name>V65/V/iii</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -11214,7 +11212,7 @@ Falck 1</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/ii</name>
+            <name>viio7/V/ii</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -11259,7 +11257,7 @@ Falck 1</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/ii</name>
+            <name>V65/V/ii</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -11455,11 +11453,6 @@ Falck 1</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <offset x="-0.106544" y="-12.9413"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
