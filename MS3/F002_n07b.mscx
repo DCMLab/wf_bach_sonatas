@@ -6154,7 +6154,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/iv</name>
+            <name>V65(2)/iv</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -6178,20 +6178,13 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv2</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7/IV</name>
+            <name>VII6(#72)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6205,7 +6198,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6/IV</name>
+            <name>VII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
