@@ -10034,7 +10034,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(7)</name>
+            <name>VI/ii</name>
+            <offset x="-1.09636" y="-0.542216"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10043,14 +10044,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII/vi</name>
-            <offset x="-1.09636" y="-0.542216"/>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -10080,7 +10073,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/ii</name>
+            <name>V6(2)/ii</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -10092,19 +10085,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/ii</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/ii</name>
+            <name>V7/ii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10113,13 +10096,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/ii</name>
-            </Harmony>
           </voice>
         <voice>
           <Rest>
