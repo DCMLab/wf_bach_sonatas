@@ -6121,7 +6121,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>ii%65(2)</name>
             <offset x="0.139868" y="-4.17842"/>
             </Harmony>
           <Rest>
@@ -6133,7 +6133,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio65</name>
+            <name>ii%65</name>
             <offset x="0.279736" y="-4.03855"/>
             </Harmony>
           <location>
@@ -6141,26 +6141,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
-            <offset x="0.419604" y="-4.31828"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio/iv</name>
+            <name>ii/iv</name>
             <offset x="0.279736" y="-3.61894"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v2</name>
-            <offset x="0.279736" y="-3.61894"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
