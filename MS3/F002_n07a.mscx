@@ -8893,7 +8893,7 @@ Falck 2</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii.bII</name>
+            <name>VI</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8909,7 +8909,7 @@ Falck 2</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2/v</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8925,7 +8925,7 @@ Falck 2</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i/v</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8933,7 +8933,7 @@ Falck 2</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.iio6</name>
+            <name>iio6/iv</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8945,7 +8945,7 @@ Falck 2</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2/iv</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8965,7 +8965,7 @@ Falck 2</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>vi.i6</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8976,7 +8976,7 @@ Falck 2</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/iv</name>
+            <name>V65/IV</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -9053,7 +9053,7 @@ Falck 2</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>i64</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -9083,7 +9083,7 @@ Falck 2</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>i64</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
