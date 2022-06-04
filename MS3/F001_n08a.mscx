@@ -8661,10 +8661,6 @@ Falck 1</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8698,10 +8694,6 @@ Falck 1</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
