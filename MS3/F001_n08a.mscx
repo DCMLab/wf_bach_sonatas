@@ -7310,11 +7310,6 @@ Falck 1</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            <offset x="0.0783114" y="-5.86739"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
