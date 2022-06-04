@@ -4456,7 +4456,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>ii%65(2)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -4467,7 +4467,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio65</name>
+            <name>ii%65</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
