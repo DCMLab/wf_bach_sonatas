@@ -4606,7 +4606,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.vi</name>
+            <name>III.vi</name>
             <offset x="-0.391557" y="-4.61441"/>
             </Harmony>
           <Rest>
@@ -4781,7 +4781,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(4)</name>
+            <name>IV(b4)</name>
             <offset x="-1.17467" y="-1.0904"/>
             </Harmony>
           <Chord>
@@ -4791,11 +4791,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV+(4)</name>
-            <offset x="-0.0783114" y="-16.2828"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
