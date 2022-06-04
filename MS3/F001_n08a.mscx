@@ -7283,11 +7283,6 @@ Falck 1</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio</name>
-            <offset x="-0.0783114" y="-5.47583"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
