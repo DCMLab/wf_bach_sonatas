@@ -8703,10 +8703,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8892,10 +8888,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9033,11 +9025,6 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.V2</name>
-            <offset x="-0.313246" y="-13.072"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -9052,11 +9039,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            <offset x="0.234934" y="-13.072"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -9107,7 +9089,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I.I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
