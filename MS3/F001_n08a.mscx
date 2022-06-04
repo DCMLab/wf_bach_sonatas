@@ -10445,11 +10445,6 @@ Falck 1</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi2</name>
-            <offset x="-1.17198" y="-13.0478"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -10545,7 +10540,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(94)</name>
+            <name>I(94)/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10565,7 +10560,7 @@ Falck 1</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I/V</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -10633,11 +10628,6 @@ Falck 1</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <offset x="0" y="-12.9413"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
