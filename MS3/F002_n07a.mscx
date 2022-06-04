@@ -9549,7 +9549,7 @@ Falck 2</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(b64)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
