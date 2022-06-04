@@ -9329,7 +9329,7 @@ Falck 1</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(72)</name>
+            <name>I(^7^2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9347,7 +9347,7 @@ Falck 1</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I\</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
