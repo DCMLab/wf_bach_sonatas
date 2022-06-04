@@ -10138,7 +10138,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii2</name>
+            <name>ii%2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10147,13 +10147,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio2</name>
-            </Harmony>
           </voice>
         <voice>
           <Rest>
