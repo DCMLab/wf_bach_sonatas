@@ -8169,16 +8169,11 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>viio43/V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio43/V</name>
-            <offset x="-2.66259" y="-0.22897"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
