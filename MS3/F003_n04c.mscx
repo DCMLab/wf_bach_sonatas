@@ -14275,7 +14275,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(74)</name>
+            <name>I(^74)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14322,8 +14322,9 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.vi65</name>
-            <offset x="-0.0783114" y="-3.43974"/>
+            <name>vi.#vi%65</name>
+            <minDistance>-0.455777</minDistance>
+            <offset x="-0.237608" y="5.14436"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
