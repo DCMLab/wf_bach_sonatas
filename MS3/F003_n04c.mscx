@@ -16602,13 +16602,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6/IV</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -16683,7 +16676,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/V/IV</name>
+            <name>ii7(4)/IV</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
