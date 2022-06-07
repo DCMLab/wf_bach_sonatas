@@ -16265,7 +16265,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%7/V</name>
+            <name>vii%7/V</name>
             <offset x="0" y="-4.77103"/>
             </Harmony>
           <Chord>
@@ -16369,7 +16369,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16441,11 +16441,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
-            <offset x="0" y="-3.43974"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
