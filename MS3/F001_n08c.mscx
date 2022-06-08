@@ -11408,7 +11408,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>viio6/V</name>
             <offset x="0" y="-3.59636"/>
             </Harmony>
           </voice>
@@ -11459,7 +11459,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>viio6/V</name>
             </Harmony>
           </voice>
         </Measure>
