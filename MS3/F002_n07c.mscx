@@ -166,7 +166,7 @@
     <metaTag name="originalFormat">cap</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -5601,7 +5601,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>C.I</name>
+            <name>C.I{</name>
             <offset x="-0.41169" y="-2.83487"/>
             </Harmony>
           <Chord>
