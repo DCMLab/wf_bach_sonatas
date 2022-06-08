@@ -12452,7 +12452,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V</name>
             <offset x="-0.532718" y="-4.2047"/>
             </Harmony>
           <Chord>
