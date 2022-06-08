@@ -8924,7 +8924,7 @@ Falck 2</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v</name>
+            <name>i6/v</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
