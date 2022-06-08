@@ -6067,7 +6067,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7\\</name>
+            <name>#viio7</name>
             <offset x="-0.313246" y="-4.06623"/>
             </Harmony>
           <location>
@@ -6077,14 +6077,6 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7</name>
-            <offset x="0" y="-3.43974"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
