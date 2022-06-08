@@ -166,7 +166,7 @@
     <metaTag name="originalFormat">cap</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -5413,7 +5413,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%7\\</name>
-            <offset x="-0.783114" y="-2.89156"/>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%7</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="-0.670193" y="3.23284"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -5428,6 +5434,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%7</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -5762,7 +5769,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7\\</name>
-            <offset x="-0.391557" y="-4.30116"/>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio7</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="-0.391557" y="3.34576"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5781,6 +5794,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6188,6 +6202,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7/V\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio7/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6377,6 +6397,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio7</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.313246" y="-4.06623"/>
             </Harmony>
           <location>
@@ -6392,7 +6418,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
-            <offset x="0" y="-3.43974"/>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -6508,7 +6534,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(2)/iv</name>
+            <name>V65(b2)/iv</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -6907,6 +6933,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio6</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.30116"/>
             </Harmony>
           <Chord>
