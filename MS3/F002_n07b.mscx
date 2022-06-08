@@ -166,7 +166,7 @@
     <metaTag name="originalFormat">cap</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -5282,8 +5282,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7\\</name>
-            <offset x="-0.783114" y="-2.89156"/>
+            <name>vii%7</name>
+            <offset x="-0.670193" y="3.23284"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -5292,13 +5292,6 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%7</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
