@@ -166,7 +166,7 @@
     <metaTag name="originalFormat">cap</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -8040,7 +8040,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>viio6/V</name>
             </Harmony>
           </voice>
         </Measure>
@@ -8090,7 +8090,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>viio6/V</name>
             </Harmony>
           </voice>
         </Measure>
