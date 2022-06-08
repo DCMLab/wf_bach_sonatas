@@ -166,7 +166,7 @@
     <metaTag name="originalFormat">cap</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -9139,7 +9139,7 @@ Falck 2</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI6</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -9183,7 +9183,7 @@ Falck 2</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v</name>
+            <name>i6/v</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -9336,6 +9336,7 @@ Falck 2</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
