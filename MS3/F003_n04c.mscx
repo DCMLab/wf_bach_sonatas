@@ -18651,7 +18651,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43/ii</name>
+            <name>ii.ii%43</name>
             </Harmony>
           </voice>
         <voice>
@@ -18698,7 +18698,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(42)/ii</name>
+            <name>V7(42)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18722,7 +18722,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/ii</name>
+            <name>V7(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18750,7 +18750,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/ii|HC}</name>
+            <name>V7|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -18776,7 +18776,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.V{</name>
+            <name>V{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
