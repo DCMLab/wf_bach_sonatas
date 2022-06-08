@@ -166,7 +166,7 @@
     <metaTag name="originalFormat">cap</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -1983,7 +1983,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)}</name>
+            <name>I6(4)}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
