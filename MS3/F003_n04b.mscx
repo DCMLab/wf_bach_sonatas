@@ -9415,7 +9415,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(4)/v</name>
+            <name>#viio7/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9427,20 +9427,6 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/v</name>
-            </Harmony>
-          <location>
-            <fractions>3/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/v</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9459,7 +9445,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)/v</name>
+            <name>V65/v</name>
             <offset x="0" y="-5.71077"/>
             </Harmony>
           <Chord>
@@ -9483,11 +9469,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio6/v</name>
-            <offset x="-2.0361" y="-0.933772"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9501,7 +9482,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(#7)</name>
+            <name>v6(#7)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
