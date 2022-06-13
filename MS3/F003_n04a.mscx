@@ -10668,14 +10668,6 @@ Falck 3</text>
             <name>V</name>
             <offset x="-0.0783114" y="-7.66855"/>
             </Harmony>
-          <location>
-            <fractions>3/32</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <offset x="-0.391557" y="-7.66855"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10719,11 +10711,6 @@ Falck 3</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2/IV</name>
-            <offset x="-1.4096" y="-3.75298"/>
-            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -10755,14 +10742,6 @@ Falck 3</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
-            <offset x="-0.234934" y="-6.33726"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10783,16 +10762,6 @@ Falck 3</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6</name>
-            </Harmony>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6/V</name>
@@ -10808,16 +10777,6 @@ Falck 3</text>
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65/V</name>
-            </Harmony>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(9)</name>
@@ -10847,21 +10806,13 @@ Falck 3</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
-            <offset x="0" y="-3.9096"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(7)</name>
+            <name>I(9)</name>
             <offset x="0" y="-3.75298"/>
             </Harmony>
           <Chord>
