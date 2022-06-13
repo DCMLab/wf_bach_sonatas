@@ -1507,19 +1507,13 @@ Falck 3</text>
             <durationType>eighth</durationType>
             <appoggiatura/>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -9976,7 +9970,7 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>I6</name>
             <offset x="-0.0783114" y="-5.55414"/>
             </Harmony>
           <location>
@@ -10174,11 +10168,6 @@ Falck 3</text>
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            <offset x="0.0783114" y="-14.0901"/>
-            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
