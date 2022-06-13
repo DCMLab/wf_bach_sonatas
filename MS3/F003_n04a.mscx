@@ -10440,7 +10440,7 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)</name>
+            <name>V7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -10545,7 +10545,7 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/V\\</name>
+            <name>viio65/V\\</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10620,7 +10620,7 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio/V</name>
+            <name>vii%7/V</name>
             <offset x="0" y="-5.39752"/>
             </Harmony>
           <Chord>
