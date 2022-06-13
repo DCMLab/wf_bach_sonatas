@@ -9076,10 +9076,6 @@ Falck 3</text>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/vi</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -9594,7 +9590,7 @@ Falck 3</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii2</name>
+            <name>V(42)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
