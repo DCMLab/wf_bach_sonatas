@@ -10258,16 +10258,6 @@ Falck 3</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            </Harmony>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
@@ -10288,7 +10278,7 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/IV</name>
+            <name>#viio2/ii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10307,25 +10297,18 @@ Falck 3</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>V(6)/ii</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <location>
-            <fractions>-3/16</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV+6</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43/ii</name>
+            <name>V2/ii</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -10350,7 +10333,7 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -10359,10 +10342,6 @@ Falck 3</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
