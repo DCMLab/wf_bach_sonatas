@@ -7030,8 +7030,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <offset x="-2.27103" y="-2.96987"/>
+            <name>i64</name>
+            <offset x="-0.837365" y="3.88431"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
