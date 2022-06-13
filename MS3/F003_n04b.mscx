@@ -7373,6 +7373,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/IV</name>
+            <offset x="-0.477888" y="3.3407"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7382,10 +7383,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV(94)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -7424,7 +7421,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             <offset x="-1.09636" y="-4.92765"/>
             </Harmony>
           <Chord>
