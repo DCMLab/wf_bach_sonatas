@@ -6584,11 +6584,8 @@
             <durationType>eighth</durationType>
             <appoggiatura/>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>58</pitch>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10559,7 +10556,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10579,10 +10576,6 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -10852,21 +10845,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/12</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>V7/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv(4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -10876,7 +10855,7 @@
             <name>iv</name>
             </Harmony>
           <location>
-            <fractions>1/12</fractions>
+            <fractions>5/24</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
