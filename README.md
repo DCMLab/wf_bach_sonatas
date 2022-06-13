@@ -9,7 +9,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |file_name|measures|labels|standard|                     annotators                     |reviewers|
 |---------|-------:|-----:|--------|----------------------------------------------------|---------|
 |F001_n08a|      63|   258|1.0.0   |Christos Giannopoulos                               |         |
-|F001_n08b|      40|   100|1.0.0   |Christos Giannopoulos                               |         |
+|F001_n08b|      40|    78|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
 |F001_n08c|     101|   257|1.0.0   |Christos Giannopoulos                               |         |
 |F002_n07a|      63|   140|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
 |F002_n07b|      44|   120|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
