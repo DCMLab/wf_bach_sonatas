@@ -9344,7 +9344,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/III</name>
+            <name>#viio43</name>
             <offset x="-1.48792" y="-5.16259"/>
             </Harmony>
           <Chord>
@@ -9361,7 +9361,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>i6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
