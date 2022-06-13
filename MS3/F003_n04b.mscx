@@ -9062,7 +9062,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V65</name>
             <offset x="0.0783114" y="-3.83129"/>
             </Harmony>
           <Chord>
@@ -9075,11 +9075,6 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <offset x="0" y="-4.30116"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9142,11 +9137,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            <offset x="0.626491" y="-5.2409"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
