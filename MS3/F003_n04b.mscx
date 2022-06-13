@@ -9299,7 +9299,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43(6)</name>
+            <name>#viio2(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9313,7 +9313,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>#viio2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
