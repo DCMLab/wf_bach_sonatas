@@ -10108,7 +10108,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V[V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10160,7 +10160,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(+2)/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10199,8 +10199,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(+2)/V</name>
-            <offset x="-2.0361" y="-5.00596"/>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10249,7 +10248,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V]</name>
+            <minDistance>-1.88132</minDistance>
+            <offset x="-0.225279" y="3.16208"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
