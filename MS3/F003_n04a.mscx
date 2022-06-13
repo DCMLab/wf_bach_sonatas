@@ -10973,7 +10973,7 @@ Falck 3</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I(4)</name>
+            <name>I[I</name>
             <offset x="0" y="-3.36143"/>
             </Harmony>
           <Chord>
@@ -10993,11 +10993,6 @@ Falck 3</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <offset x="0" y="-3.43974"/>
-            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <StemDirection>up</StemDirection>
@@ -11121,10 +11116,6 @@ Falck 3</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>16th</durationType>
@@ -11140,6 +11131,10 @@ Falck 3</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -11390,7 +11385,7 @@ Falck 3</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(74)</name>
+            <name>I(^74)</name>
             <offset x="0.0783114" y="-6.10232"/>
             </Harmony>
           <Chord>
