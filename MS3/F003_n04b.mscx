@@ -9197,7 +9197,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio65</name>
+            <name>ii%65</name>
             <offset x="0.0783114" y="-4.45778"/>
             </Harmony>
           <Chord>
@@ -9214,11 +9214,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio43</name>
-            <offset x="0.156623" y="-4.37947"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9240,10 +9235,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio43</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9251,10 +9242,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
