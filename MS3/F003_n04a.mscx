@@ -9934,7 +9934,7 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio(64)/V</name>
+            <name>viio(64)/V</name>
             <offset x="-0.54818" y="-2.73493"/>
             </Harmony>
           <Chord>
@@ -9952,7 +9952,7 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio/V</name>
+            <name>viio/V</name>
             <offset x="-1.95778" y="-5.78908"/>
             </Harmony>
           </voice>
