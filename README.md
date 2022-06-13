@@ -16,4 +16,4 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |F002_n07c|      66|   166|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
 |F003_n04a|      83|   349|1.0.0   |Christos Giannopoulos                               |         |
 |F003_n04b|      64|   266|1.0.0   |Christos Giannopoulos                               |         |
-|F003_n04c|     108|   435|1.0.0   |Christos Giannopoulos                               |         |
+|F003_n04c|     108|   290|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
