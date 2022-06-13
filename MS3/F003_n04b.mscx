@@ -7439,11 +7439,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
-            <offset x="-1.64454" y="-2.89156"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -7737,7 +7732,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(4)</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7757,14 +7752,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-5/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
-          <location>
-            <fractions>1/6</fractions>
+            <fractions>-1/24</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -7794,7 +7782,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]\\</name>
+            <name>I]</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
