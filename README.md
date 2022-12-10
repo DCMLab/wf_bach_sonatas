@@ -15,3 +15,6 @@ Readily annotated.
 |F003_n04a|      83|   313|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, ST   |
 |F003_n04b|      64|   223|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, ST   |
 |F003_n04c|     108|   290|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
+
+
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.1.*
