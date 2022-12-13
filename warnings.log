@@ -1,0 +1,56 @@
+Warnings encountered during the last execution of ms3 review (v1.0.2)
+=====================================================================
+
+INCORRECT_VOLTA_MN_WARNING (2, 64) ms3.Parse.wf_bach_sonatas.F002_n07a -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 191) check_measure_numbers():
+	MC 64, the 1st measure of a 2nd volta, should have MN 62, not MN 63.DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.wf_bach_sonatas.F003_n04a -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4907) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            0a         {             8a         }
+	            9a         {            14a         }
+	           15a         {            21a         }
+	           23a        }{            23a        }{
+	           28a         {            28a         }
+	            9b         {             8b         }
+	           15b         {            14b         }
+	           23b        }{            21b         }
+	           28b         {            23b        }{
+	           32a         {            28b         }
+	           41a        }{            32a         }
+	           43a        }{            41a        }{
+	           45a        }{            43a        }{
+	           53a         {            45a        }{
+	           60a         {            53a         }
+	           68a         {            60a         }
+	           73a        }{            67a         }
+	           75a        }{            73a        }{
+	           78a        }{            75a        }{
+	           83a         {            78a        }{
+	           32b         {            83a         }
+	           41b        }{            32b         }
+	           43b        }{            41b        }{
+	           45b        }{            43b        }{
+	           53b         {            45b        }{
+	           60b         {            53b         }
+	           68b         {            60b         }
+	           73b        }{            67b         }
+	           75b        }{            73b        }{
+	           78b        }{            75b        }{
+	           NaN       NaN            78b        }{
+	           NaN       NaN            83b         }WARNING  ms3.Parse.wf_bach_sonatas.F003_n04b -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 3969) features2tpcs():
+	MC 33: #vii in major context corrected to vii.WARNING  ms3.Parse.wf_bach_sonatas.F003_n04b -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 3969) features2tpcs():
+	MC 57: #vii in major context corrected to vii.WARNING  ms3.Parse.wf_bach_sonatas.F003_n04b -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 3969) features2tpcs():
+	MC 12: #vii in major context corrected to vii.WARNING  ms3.Parse.wf_bach_sonatas.F003_n04b -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 3969) features2tpcs():
+	MC 58: #vii in major context corrected to vii.Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                        mc  mn mc_onset      label    chord_tones added_tones  n_colored  n_untouched  count_ratio
+wf_bach_sonatas MS3/F001_n08a.mscx 36   12  12      1/4      V6(4)      (1, 3, 2)          ()          1            0     1.000000
+                                   62   18  18     3/16          I      (1, 5, 2)          ()          5            3     0.625000
+                MS3/F001_n08b.mscx 52   30  28        0  V7(b2)/iv  (-9, 7, 4, 1)          ()          2            1     0.666667
+                MS3/F003_n04a.mscx 31   11  10      3/8        V43   (5, 2, 4, 8)          ()          2            1     0.666667
+                                   130  36  34      1/4         I]      (2, 6, 3)          ()          3            1     0.750000
+                                   146  40  38      3/8          V      (3, 7, 4)          ()          2            1     0.666667
+                                   254  71  69      3/8        V43   (4, 1, 3, 7)          ()          2            1     0.666667
+                MS3/F003_n04b.mscx 209  62  62      1/8        vio    (1, -2, -5)          ()          5            0     1.000000
+                MS3/F003_n04c.mscx 122  51  49        0      IV/IV      (0, 4, 1)          ()         11            5     0.687500
+                                   151  63  61      1/2        iv7   (3, 0, 4, 1)          ()          2            1     0.666667
+                                   195  78  76      1/2    viio6/V     (8, 5, 11)          ()          2            1     0.666667
+                                   219  87  85        0       I(2)      (4, 6, 3)          ()          3            1     0.750000
