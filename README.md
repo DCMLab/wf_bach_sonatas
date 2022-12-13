@@ -1,8 +1,6 @@
-# annotation_workflow_template
+# W.F. Bach - Keyboard sonatas
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
-
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+Readily annotated.
 
 
 # Overview
@@ -17,3 +15,6 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |F003_n04a|      83|   313|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, ST   |
 |F003_n04b|      64|   223|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, ST   |
 |F003_n04c|     108|   290|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
+
+
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.1.*
