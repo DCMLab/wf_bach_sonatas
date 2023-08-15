@@ -3,7 +3,7 @@
 Readily annotated.
 
 
-# Overview
+## Overview
 |file_name|measures|labels|standard|                     annotators                     |reviewers|
 |---------|-------:|-----:|--------|----------------------------------------------------|---------|
 |F001_n08a|      63|   205|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
@@ -17,4 +17,4 @@ Readily annotated.
 |F003_n04c|     108|   290|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.2.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
