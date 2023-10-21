@@ -17,4 +17,4 @@ Readily annotated.
 |F003_n04c|     108|   290|2.3.0   |Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)|DK, AN   |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
