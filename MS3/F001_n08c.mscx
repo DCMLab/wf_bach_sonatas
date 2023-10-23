@@ -219,6 +219,12 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>1.4750000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 59</b></text>
+            </Tempo>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
