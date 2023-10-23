@@ -224,6 +224,12 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>2.0666666666666664</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 124</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -526,7 +532,7 @@
             </Chord>
           <StaffText>
             <family>Times New Roman</family>
-            <offset x="6.71875" y="-7.00734"/>
+            <offset x="-5.67454" y="-14.1955"/>
             <text>Wilhelm Friedemann Bach
 Falck 2</text>
             </StaffText>
@@ -6666,6 +6672,7 @@ Falck 2</text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>section</subtype>
           </LayoutBreak>
