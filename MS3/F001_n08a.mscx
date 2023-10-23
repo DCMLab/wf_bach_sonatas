@@ -219,6 +219,12 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
+            </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -503,7 +509,7 @@
             </Chord>
           <StaffText>
             <family>Times New Roman</family>
-            <offset x="9.83539" y="-14.5936"/>
+            <offset x="-12.1007" y="-14.8415"/>
             <text>Wilhelm Friedemann Bach
 Falck 1</text>
             </StaffText>
@@ -8233,7 +8239,7 @@ Falck 1</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(4)</name>
+            <name>V6(+4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -8827,7 +8833,7 @@ Falck 1</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(4)</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8845,16 +8851,6 @@ Falck 1</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
