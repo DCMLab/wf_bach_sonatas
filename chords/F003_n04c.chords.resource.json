@@ -1,7 +1,7 @@
 {
-  "name": "f001_n08a.measures",
+  "name": "f003_n04c.chords",
   "type": "table",
-  "path": "F001_n08a.measures.tsv",
+  "path": "F003_n04c.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/measures/oWlUFOdD06d1_A.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/m03RU_-fe90biA.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
