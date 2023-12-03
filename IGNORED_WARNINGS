@@ -1,0 +1,8 @@
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '3/8', 'V43') ms3.Parse.wf_bach_sonatas.F003_n04a
+	The label V43 in m.10 is fine, the ornaments are passing tones
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 40, '3/8', 'V') ms3.Parse.wf_bach_sonatas.F003_n04a
+	The label V in m.38 last beat is plausible, perhaps even V7 could be possible as well.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 78, '1/2', 'viio6/V') ms3.Parse.wf_bach_sonatas.F003_n04c
+	The label viio6/V in m.76 is plausible when considered a theoretical resolution to the previous label; however there is no A-sharp so more accurate would be of v here

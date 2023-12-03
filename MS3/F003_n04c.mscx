@@ -215,6 +215,12 @@
             <offset x="-8.41444" y="-5.97978"/>
             <text>Vivace</text>
             </StaffText>
+          <Tempo>
+            <tempo>2.5333333333333332</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 76</b></text>
+            </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -18072,7 +18078,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/IV</name>
+            <name>IV</name>
             <offset x="-0.0783114" y="-0.698838"/>
             </Harmony>
           <Tuplet>
@@ -19137,7 +19143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>IV7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21376,7 +21382,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(2)</name>
+            <name>V(+2)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -21387,7 +21393,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>

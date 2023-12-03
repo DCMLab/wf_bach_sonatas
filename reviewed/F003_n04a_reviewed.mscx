@@ -219,6 +219,12 @@
             <offset x="-4.31175" y="-8.01193"/>
             <text>Un poco Allegro.</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
+            </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -457,7 +463,7 @@
         <voice>
           <StaffText>
             <family>Times New Roman</family>
-            <offset x="20.7816" y="-9.36813"/>
+            <offset x="5.78571" y="-14.0776"/>
             <text>Wilhelm Friedemann Bach
 Falck 3</text>
             </StaffText>
@@ -3769,7 +3775,6 @@ Falck 3</text>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4905,7 +4910,7 @@ Falck 3</text>
             <durationType>16th</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.736593" y="-2.04542"/>
+              <offset x="0.240861" y="1.0529"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -7141,7 +7146,6 @@ Falck 3</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7180,6 +7184,7 @@ Falck 3</text>
             <grace16/>
             <StemDirection>up</StemDirection>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -7187,7 +7192,6 @@ Falck 3</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7980,10 +7984,11 @@ Falck 3</text>
             <text>espr.</text>
             </StaffText>
           <StaffText>
+            <minDistance>-5.07698</minDistance>
             <family>Times New Roman</family>
             <size>11</size>
             <bold>1</bold>
-            <offset x="-4.40625" y="-5.39417"/>
+            <offset x="-5.02591" y="-6.43563"/>
             <text>Adagio.</text>
             </StaffText>
           <Chord>
@@ -7991,7 +7996,7 @@ Falck 3</text>
             <durationType>16th</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
-              <offset x="0.658281" y="-4.34636"/>
+              <offset x="-0.20925" y="1.23062"/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -10195,7 +10200,7 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6\\</name>
+            <name>V6</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -10214,6 +10219,10 @@ Falck 3</text>
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -10231,7 +10240,7 @@ Falck 3</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I{</name>
+            <name>I[I</name>
             <offset x="0.0783114" y="-14.8732"/>
             </Harmony>
           <Chord>
@@ -10814,7 +10823,7 @@ Falck 3</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65{</name>
             <offset x="0.0783114" y="-5.47583"/>
             </Harmony>
           <Chord>
@@ -11616,7 +11625,7 @@ Falck 3</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(^74)}</name>
+            <name>I(^74)</name>
             <offset x="0.0783114" y="-6.10232"/>
             </Harmony>
           <Chord>
@@ -11631,7 +11640,7 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC</name>
+            <name>I|IAC}</name>
             <offset x="0" y="-6.25895"/>
             </Harmony>
           <location>
@@ -11792,7 +11801,7 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]</name>
+            <name>IV</name>
             <offset x="0" y="-3.28311"/>
             </Harmony>
           <location>
@@ -11842,7 +11851,7 @@ Falck 3</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I]</name>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -13540,7 +13549,7 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi\\</name>
+            <name>vi}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13549,6 +13558,16 @@ Falck 3</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/32</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
+          <location>
+            <fractions>1/32</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/ii</name>
@@ -14683,7 +14702,7 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>I</name>
             </Harmony>
           </voice>
         </Measure>
@@ -15214,7 +15233,7 @@ Falck 3</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi\\</name>
+            <name>vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15225,7 +15244,7 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/V</name>
+            <name>viio65/V}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15269,7 +15288,7 @@ Falck 3</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15356,7 +15375,7 @@ Falck 3</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}{</name>
+            <name>V|HC}</name>
             <offset x="0" y="-3.83129"/>
             </Harmony>
           <Chord>
@@ -15367,6 +15386,11 @@ Falck 3</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <offset x="0.371799" y="2.50854"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

@@ -218,6 +218,12 @@
             <offset x="-7.875" y="-5.38171"/>
             <text>Adagio.</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.6000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
@@ -7228,7 +7234,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8722,7 +8728,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6/V</name>
+            <name>viio6/V</name>
             <offset x="-3.68063" y="-0.463904"/>
             </Harmony>
           <Chord>
@@ -8840,7 +8846,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/V/vi</name>
+            <name>viio43/V/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10365,7 +10371,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/VII</name>
+            <name>viio7/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10409,7 +10415,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/III</name>
+            <name>viio7/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10679,7 +10685,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vio</name>
+            <name>iio</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
