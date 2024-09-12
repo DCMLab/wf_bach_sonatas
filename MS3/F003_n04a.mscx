@@ -189,10 +189,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Klavier links</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -205,8 +208,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>14.6544</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in D major, F. 3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Un poco allegro</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Wilhelm Friedemann Bach</text>
+          </Text>
         </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
@@ -316,13 +331,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>17</size>
-            <bold>1</bold>
-            <offset x="4.0625" y="-18.4062"/>
-            <text>Sonate in D-Dur.</text>
-            </StaffText>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -462,12 +470,6 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <StaffText>
-            <family>Times New Roman</family>
-            <offset x="5.78571" y="-14.0776"/>
-            <text>Wilhelm Friedemann Bach
-Falck 3</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>16th</durationType>

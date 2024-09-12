@@ -189,10 +189,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>unbenannt1</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -205,12 +208,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>13.2693</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <size>8</size>
-          <text>#</text>
+          <text>Keyboard Sonata in C major, F. 2</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Allegro</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Wilhelm Friedemann Bach</text>
           </Text>
         </VBox>
       <Measure>
@@ -302,13 +312,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>17</size>
-            <bold>1</bold>
-            <offset x="18.625" y="-15.3125"/>
-            <text>Sonate in C-Dur.</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -526,12 +529,6 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <offset x="-5.67454" y="-14.1955"/>
-            <text>Wilhelm Friedemann Bach
-Falck 2</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>

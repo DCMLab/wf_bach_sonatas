@@ -188,10 +188,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -203,7 +206,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>13.1963</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in C major, F. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Minuetto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Wilhelm Friedemann Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>

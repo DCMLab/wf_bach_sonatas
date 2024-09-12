@@ -147,9 +147,9 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.6</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>0</showUnprintable>
-    <showFrames>0</showFrames>
+    <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="P86 (composer)">Q107277</metaTag>
     <metaTag name="annotators">Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)</metaTag>
@@ -188,10 +188,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -204,8 +207,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>14.8674</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in C major, F. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Allegro</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Wilhelm Friedemann Bach</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -321,13 +336,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>17</size>
-            <bold>1</bold>
-            <offset x="9.1875" y="-14.1563"/>
-            <text>Sonate in C-Dur.</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -512,12 +520,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <offset x="-12.1007" y="-14.8415"/>
-            <text>Wilhelm Friedemann Bach
-Falck 1</text>
-            </StaffText>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
