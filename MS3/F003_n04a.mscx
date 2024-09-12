@@ -151,26 +151,32 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q107277</metaTag>
     <metaTag name="annotators">Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1760</metaTag>
+    <metaTag name="composed_end">1745</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_F.3_(Bach,_Wilhelm_Friedemann)</metaTag>
     <metaTag name="composed_start">1745</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Wilhelm Friedemann Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-22</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_F.3_(Bach,_Wilhelm_Friedemann)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Un poco allegro</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/1be761f0-fbb7-4d86-ba8e-d5e98893d7bc</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/3834</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, ST</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185957894</metaTag>
+    <metaTag name="workNumber">F. 3</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata in D major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -223,7 +229,7 @@
             <tempo>1.2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>

@@ -151,26 +151,31 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q107277</metaTag>
     <metaTag name="annotators">Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1760</metaTag>
-    <metaTag name="composed_start">1745</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1775</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Keyboard_Sonata_in_C_major%2C_F.1_(Bach%2C_Wilhelm_Friedemann)</metaTag>
+    <metaTag name="composed_start">1750</metaTag>
+    <metaTag name="composer">Wilhelm Friedemann Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-22</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_C_major%2C_F.1_(Bach%2C_Wilhelm_Friedemann)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Vivace</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/32703d10-01ac-4e5d-bd9e-0b322e043f5d</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/3838</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workNumber">F. 1</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata in C major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -198,6 +203,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <TimeSig>
@@ -223,7 +229,7 @@
             <tempo>1.4750000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 59</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 59</b></text>
             </Tempo>
           <Chord>
             <durationType>32nd</durationType>
