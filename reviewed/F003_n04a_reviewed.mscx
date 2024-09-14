@@ -151,26 +151,33 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q107277</metaTag>
     <metaTag name="annotators">Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1760</metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1745</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_F.3_(Bach,_Wilhelm_Friedemann)</metaTag>
     <metaTag name="composed_start">1745</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Wilhelm Friedemann Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-22</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_F.3_(Bach,_Wilhelm_Friedemann)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Un poco allegro</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/1be761f0-fbb7-4d86-ba8e-d5e98893d7bc</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/3834</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, ST</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185957894</metaTag>
+    <metaTag name="workNumber">F. 3</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata in D major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -183,10 +190,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Klavier links</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -199,8 +209,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>14.6544</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in D major, F. 3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Un poco allegro</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Wilhelm Friedemann Bach</text>
+          </Text>
         </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
@@ -310,13 +332,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>17</size>
-            <bold>1</bold>
-            <offset x="4.0625" y="-18.4062"/>
-            <text>Sonate in D-Dur.</text>
-            </StaffText>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -461,12 +476,6 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <StaffText>
-            <family>Times New Roman</family>
-            <offset x="5.78571" y="-14.0776"/>
-            <text>Wilhelm Friedemann Bach
-Falck 3</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>16th</durationType>
@@ -10200,7 +10209,13 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -10222,6 +10237,7 @@ Falck 3</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -10240,7 +10256,13 @@ Falck 3</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I[I{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I[I</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.0783114" y="-14.8732"/>
             </Harmony>
           <Chord>
@@ -10823,7 +10845,13 @@ Falck 3</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.0783114" y="-5.47583"/>
             </Harmony>
           <Chord>
@@ -11625,7 +11653,13 @@ Falck 3</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I(^74)}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I(^74)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.0783114" y="-6.10232"/>
             </Harmony>
           <Chord>
@@ -11640,7 +11674,13 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I|IAC</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I|IAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-6.25895"/>
             </Harmony>
           <location>
@@ -11801,7 +11841,13 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-3.28311"/>
             </Harmony>
           <location>
@@ -11851,7 +11897,13 @@ Falck 3</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -13549,7 +13601,13 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13564,6 +13622,7 @@ Falck 3</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/32</fractions>
@@ -14702,7 +14761,13 @@ Falck 3</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -15233,7 +15298,13 @@ Falck 3</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15244,7 +15315,13 @@ Falck 3</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>viio65/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio65/V}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15288,7 +15365,13 @@ Falck 3</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15375,7 +15458,13 @@ Falck 3</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V|HC}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-3.83129"/>
             </Harmony>
           <Chord>
@@ -15389,6 +15478,7 @@ Falck 3</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.371799" y="2.50854"/>
             </Harmony>
           <Rest>

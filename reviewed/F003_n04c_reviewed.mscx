@@ -151,26 +151,33 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q107277</metaTag>
     <metaTag name="annotators">Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1760</metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1745</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_F.3_(Bach,_Wilhelm_Friedemann)</metaTag>
     <metaTag name="composed_start">1745</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Wilhelm Friedemann Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-22</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_F.3_(Bach,_Wilhelm_Friedemann)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Vivace</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/e8ab4cdb-56dc-4b8a-ad31-52925c6fc5cc</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/3834</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185957894</metaTag>
+    <metaTag name="workNumber">F. 3</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata in D major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -183,10 +190,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Klavier links</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -198,6 +208,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>15.0076</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in D major, F. 3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Vivace</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Wilhelm Friedemann Bach</text>
+          </Text>
+        </VBox>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>
@@ -18292,7 +18318,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>IV/IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.0783114" y="-0.698838"/>
             </Harmony>
           <Tuplet>
@@ -19369,7 +19401,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21631,7 +21669,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(+2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -21642,7 +21686,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
