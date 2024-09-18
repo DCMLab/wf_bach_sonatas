@@ -14,7 +14,7 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Wilhelm Friedemann Bach – Piano Sonatas
 
-## Cite as
+The eldest of the Bach sons was arguably the most personally headstrong and professionally unsuccessful of them. This may have found some expression in his style, which remained committed to Baroque complexity even as his younger brothers adopted more fashionable, accessible styles. Of the three sonatas in this repository, only F.3 was published in the composer's lifetime; the other two are known through undated manuscripts. These are highly virtuosic works befitting their composer's reputation as a ferocious improviser. Examination of the harmonies at work here reveals the composer's application of a harmonic technique resembling that of his father to the expansive sonata forms that were emergent over the course of the 18th century, making this repository of little-known works remarkably pivotal in understanding this period.
 
 ## Version history
 
