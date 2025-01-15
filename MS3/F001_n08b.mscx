@@ -151,26 +151,31 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q107277</metaTag>
     <metaTag name="annotators">Christos Giannopoulos (1.0.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1760</metaTag>
-    <metaTag name="composed_start">1745</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1775</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Keyboard_Sonata_in_C_major%2C_F.1_(Bach%2C_Wilhelm_Friedemann)</metaTag>
+    <metaTag name="composed_start">1750</metaTag>
+    <metaTag name="composer">Wilhelm Friedemann Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-22</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_C_major%2C_F.1_(Bach%2C_Wilhelm_Friedemann)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Minuetto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/fd2561b4-869d-4af2-be4f-54ca4653a5f2</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/3838</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workNumber">F. 1</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata in C major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -183,10 +188,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -198,6 +206,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>13.1963</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata in C major, F. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Minuetto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Wilhelm Friedemann Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>
@@ -223,7 +247,7 @@
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 112</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 112</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>

@@ -13,7 +13,6 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 1	1	9/4	9/4	0.25	9/16	9/16	Chord	4/4	1	1	1/16		1/16	1	8									
 1	1	5/2	5/2	0.25	5/8	5/8	Chord	4/4	1	1	1/16		1/16	1	9									
 1	1	11/4	11/4	0.25	11/16	11/16	Chord	4/4	1	1	1/16		1/16	1	10									
-1	1	3	3	0.0	3/4	3/4	StaffText	4/4	1	1	0							Sonate in C-Dur.						
 1	1	3	3	0.25	3/4	3/4	Chord	4/4	1	1	1/16		1/16	1	11									
 1	1	13/4	13/4	0.25	13/16	13/16	Chord	4/4	1	1	1/16		1/16	1	12									
 1	1	7/2	7/2	0.25	7/8	7/8	Chord	4/4	1	1	1/16		1/16	1	13									
@@ -42,8 +41,6 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 3	3	10	10	0.0	1/2	1/2	Chord	4/4	1	1	0	grace16	1/16	1	36									
 3	3	10	10	0.5	1/2	1/2	Chord	4/4	1	1	1/8		1/8	1	37									
 3	3	21/2	21/2	0.5	5/8	5/8	Chord	4/4	1	1	1/8		1/8	1	38									
-3	3	11	11	0.0	3/4	3/4	StaffText	4/4	1	1	0							"Wilhelm Friedemann Bach
-Falck 1"						
 3	3	23/2	23/2	0.5	7/8	7/8	Chord	4/4	1	1	1/8		1/8	1	39									
 3	3	8	8	0.5	0	0	Chord	4/4	1	2	1/8		1/8	1	40									
 3	3	17/2	17/2	1.0	1/8	1/8	Chord	4/4	1	2	1/4		1/4	1	41									
