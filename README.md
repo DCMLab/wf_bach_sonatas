@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/wf_bach_sonatas?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/388190018.svg)](https://doi.org/10.5281/zenodo.14997133)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/wf_bach_sonatas)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -88,7 +88,7 @@ Please [create an issue](https://github.com/DCMLab/wf_bach_sonatas/issues) and/o
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Wilhelm Friedemann Bach – Piano Sonatas (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Wilhelm Friedemann Bach – Piano Sonatas (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997133
 
 ## License
 
