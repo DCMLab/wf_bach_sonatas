@@ -2,37 +2,37 @@
     "license": "CC-BY-NC-SA-4.0",
     "contributors": [
         {
-            "type": "DataCollector",
-            "name": "Adrian Nagel"
+            "name": "Nagel, Adrian",
+            "type": "Annotator"
         },
         {
-            "type": "DataCollector",
-            "name": "Christos Giannopoulos"
+            "name": "Giannopoulos, Christos",
+            "type": "Annotator"
         },
         {
-            "orcid": "0000-0002-6588-2257",
-            "type": "DataCollector",
-            "name": "Davor Krkljus"
+            "name": "Krkljus, Davor",
+            "type": "Annotator",
+            "orcid": "0000-0002-6588-2257"
         },
         {
-            "orcid": "0000-0001-6254-2604",
-            "type": "DataCollector",
-            "name": "Sylvie Tran"
+            "name": "Tran, Sylvie",
+            "type": "Annotator",
+            "orcid": "0000-0001-6254-2604"
         },
         {
-            "orcid": "0000-0002-6329-7492",
+            "name": "Brey, Amelia",
             "type": "DataCurator",
-            "name": "Amelia Brey"
+            "orcid": "0000-0002-6329-7492"
         },
         {
-            "orcid": "0000-0002-2105-525X",
+            "name": "Becker, Hanné",
             "type": "DataCurator",
-            "name": "Hanné Becker"
+            "orcid": "0000-0002-2105-525X"
         },
         {
-            "orcid": "0000-0002-1986-9545",
+            "name": "Hentschel, Johannes",
             "type": "DataCurator",
-            "name": "Johannes Hentschel"
+            "orcid": "0000-0002-1986-9545"
         }
     ],
     "title": "Wilhelm Friedemann Bach – Piano Sonatas (A corpus of annotated scores)",
